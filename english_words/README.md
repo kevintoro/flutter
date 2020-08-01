@@ -1,6 +1,6 @@
 # english_words
 
-A new flutter project that generates infinite words in English, in addition to saving those that are liked
+A new flutter project that generates infinite english words, and saves those that are liked
 
 - [This project uses English Words Package](https://pub.dev/packages/english_words)
 
